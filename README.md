@@ -1,1 +1,2 @@
-# Repository
+This respository corresponds to the project entitled 'Carbon-doped anatase titania nanoparticles: Similarities and differences with respect to the bulk and extended surface models' published in Phys. Chem. Chem. Phys. 2022, vol. 24, pages 21381-21387.
+All calculations have been carried out using the FHI-AIMS code.
